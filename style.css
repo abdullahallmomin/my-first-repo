@@ -10,11 +10,12 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 
 .one{
     width: 50%;
-    padding-left: 8%;
+    padding-left: 5%;
 }
 .one img{
     width: 80%;
@@ -30,4 +31,10 @@ section{
 .topbanner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.two-banner{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right: 10px;
 }
