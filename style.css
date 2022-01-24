@@ -1,0 +1,33 @@
+h1{
+    font-size: 50px;
+}
+.gold{
+    color: orange;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+section{
+    display: flex;
+}
+
+.one{
+    width: 50%;
+    padding-left: 8%;
+}
+.one img{
+    width: 80%;
+}
+.botton{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato );
+    padding: 10px 20px;
+    border-radius: 05px;
+    color: white;
+    font-weight: 400;
+}
+.topbanner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
